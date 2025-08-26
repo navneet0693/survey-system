@@ -144,8 +144,7 @@ curl http://localhost:8000/api/surveys/1/responses
             "option_text": "Very satisfied",
             "count": 15
           }
-        ],
-        "other_responses": []
+        ]
       }
     }
   ]
