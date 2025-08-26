@@ -1,4 +1,4 @@
-name: survey-system-2
+name: survey-system
 type: symfony
 docroot: public
 php_version: "8.3"
